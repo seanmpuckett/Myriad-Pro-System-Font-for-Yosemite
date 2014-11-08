@@ -19,6 +19,8 @@ This does not hack or patch your OS in any way. It is a completely non-destructi
 
 You can clone, fork, or download the repo from GitHub. 
 
+Or you can download a [zipfile from dropbox](https://www.dropbox.com/s/st2pyjo9lrb1d5k/SystemFontMyriadPro.zip?dl=1).
+
 #### Copy to your library
 
 In a finder window, choose Go-->Go to folder and type in **~/Library/Fonts/**. 
