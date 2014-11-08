@@ -1,6 +1,6 @@
 # Source Sans System Font Replacement for Yosemite
 
-Helvetica is a bad system font for reasons best left for a [blog post](). 
+Helvetica is a bad system font for reasons best left for a [blog post](https://smpuck.onepostwonder.com/2014/10/20/helvetica-really). 
 
 I find Myriad Pro to be a more elegant and readable choice, and following in the footsteps of [kemie's Source Sans replacement](https://github.com/kemie/Source-Sans-Yosemite-System-Font-Replacement/blob/master/readme.md) (and from whom I shamelessly cribbed much of this readme), I hereby offer a System Font-ified version of Myriad Pro for your enjoyment.
 
