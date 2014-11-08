@@ -7,7 +7,7 @@ I find Myriad Pro to be a more elegant and readable choice, and following in the
 These files were generated with Thai Pangsakulyanont's [Yosemite System Font Patcher](https://github.com/dtinth/YosemiteSystemFontPatcher), which will allow you to choose any font you wish, albeit at the expense of installing a lot of open source development software on your computer.
 
 
-![Myriad Pro System](https://www.dropbox.com/s/rgx93t37rp8fjmv/Screen%20Shot%202014-11-08%20at%209.22.08%20AM.png?dl=0)
+![Myriad Pro System](https://www.dropbox.com/s/rgx93t37rp8fjmv/Screen%20Shot%202014-11-08%20at%209.22.08%20AM.png?dl=1)
 
 ## How it works
 
