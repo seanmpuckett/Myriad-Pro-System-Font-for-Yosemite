@@ -17,9 +17,7 @@ This does not hack or patch your OS in any way. It is a completely non-destructi
 
 #### Download the font files
 
-You can clone, fork, or download the repo from GitHub. 
-
-Or you can download a [zipfile from dropbox](https://www.dropbox.com/s/st2pyjo9lrb1d5k/SystemFontMyriadPro.zip?dl=1).
+Simplest thing to do is [download](https://github.com/seanmpuckett/Myriad-Pro-System-Font-for-Yosemite/archive/master.zip) a zipfile from GitHub, then unzip them to a temporary folder.
 
 #### Copy to your library
 
